@@ -1,0 +1,87 @@
+- 
+  id: 0
+  name: "Prof. Rada"
+  surname: "Mihalcea"
+  title: "Professor at University of Michigan"
+  thumbnailUrl: rada.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/radamihalcea"}
+    - {name: "email", link: "mailto:mihalcea@umich.edu"}
+    - {name: "site", link: "https://web.eecs.umich.edu/~mihalcea/"}
+- 
+  id: 1
+  name: "Prof. Mohit"
+  surname: "Bansal"
+  title: "Assoc. Professor at UNC-Chapel Hill"
+  thumbnailUrl: mohit.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mohitban47"}
+    - {name: "email", link: "mailto:mbansal@cs.unc.edu"}
+    - {name: "site", link: "https://www.cs.unc.edu/~mbansal/"}
+- 
+  id: 2
+  name: "Dr. V."
+  surname: "Prabhakaran"
+  title: "Research Scientist at Google"
+  thumbnailUrl: vinod.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/vinodkpg"}
+    - {name: "email", link: "mailto:vinodkpg@google.com"}
+    - {name: "site", link: "https://www.cs.stanford.edu/~vinod/"}
+- 
+  id: 3
+  name: "Zhijing"
+  surname: "Jin"
+  title: "PhD at Max Planck Institute & ETH Zürich"
+  thumbnailUrl: zhijing.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ZhijingJin"}
+    - {name: "email", link: "mailto:zhijing.jin@connect.hku.hk"}
+    - {name: "site", link: "https://zhijing-jin.com/fantasy/"}
+-
+  id: 4
+  name: "Ashkan"
+  surname: "Kazemi"
+  title: "PhD at University of Michigan"
+  thumbnailUrl: ash.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ashkankazemi"}
+    - {name: "email", link: "mailto:ashkank@umich.edu"}
+    - {name: "site", link: "https://ashkankazemi.ir/"}
+-
+  id: 5
+  name: "Tejas"
+  surname: "Vaidhya"
+  title: "Incoming MSc at Mila"
+  thumbnailUrl: tejas.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/imtejas13"}
+    - {name: "email", link: "mailto:ashkank@umich.edu"}
+    - {name: "site", link: "https://tejasvaidhyadev.github.io"}
+-
+  id: 6
+  name: "Abhay"
+  surname: "Zala"
+  title: "Undergraduate at University of North Carolina at Chapel Hill"
+  thumbnailUrl: abhay.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/AbhayZala7"}
+    - {name: "email", link: "mailto:aszala@cs.unc.edu"}
+    - {name: "site", link: "https://www.cs.unc.edu/~aszala/"}
+- 
+  id: 7
+  name: "Lisa"
+  surname: "Bauer"
+  title: "PhD at UNC-Chapel Hill"
+  thumbnailUrl: lisa.jpeg
+  subTeam: false
+  social: 
+    - {name: "email", link: "mailto:lbauer6@cs.unc.edu"}
+    - {name: "site", link: "https://www.cs.unc.edu/~lbauer6/"}

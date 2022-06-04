@@ -1,0 +1,77 @@
+- 
+  date: "2021-09-09"
+  dateReadable: "Sep 9"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [001]
+    }
+- 
+  date: "2021-10-07"
+  dateReadable: "October 7"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [002]
+    }
+- 
+  date: "2021-11-02"
+  dateReadable: "November 2"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [003]
+    }
+- 
+  date: "2021-12-01"
+  dateReadable: "December 1"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [004]
+    }
+- 
+  date: "2022-02-01"
+  dateReadable: "February 1"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [005]
+    }
+-
+  date: "2022-03-08"
+  dateReadable: "March 8"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [006]
+    }
+-
+  date: "2022-05-11"
+  dateReadable: "May 11"
+  tracks: 
+    - {title: "Monthly Session", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:30 am UTC",
+    	endTime: "12:30 am",
+    	sessionIds: [007]
+    }

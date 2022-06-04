@@ -1,0 +1,78 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "How to choose an NLP research project?"
+  description: "Insights from the 1st ACL Year-Round Mentorship Session"
+  subtype: Montly Session
+  speakers: [8, 9, 10]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://docs.google.com/document/d/1usDhvKUGjdeqMHG8EzMdembqd2M0GKtDQI6C032r5Ko/edit#heading=h.u0b64p4h2qnf"
+  video: "//www.youtube.com/embed/jFWF0PX4Pcs"
+-
+  id: 002
+  title: "Building Collaborations and Networking "
+  description: "Insights from the 2nd ACL Year-Round Mentorship Session"
+  subtype: Montly Session
+  speakers: [11, 12, 13]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://docs.google.com/document/d/13S5Zex5Kem7Ag_zc6GHzgOLr6miZsZXLYzubG3n-Y2c/edit#heading=h.3dxdbop17f70"
+  video: "//www.youtube.com/embed/pOJuyl4xOEg"
+-
+  id: 003
+  title: "Getting the most out of an NLP Conference "
+  description: "Insights from the 3rd ACL Year-Round Mentorship Session"
+  subtype: Montly Session
+  speakers: [14, 15, 16]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://docs.google.com/document/d/1DVQkRJPM7wmp2Cu1I_F5mAdR-C0wrJnfb8-IPuOsSSs/edit#heading=h.3dxdbop17f70"
+  video: "//www.youtube.com/embed/TwQD6YeSXPQ"
+-
+  id: 004
+  title: "Applying for a PhD in NLP"
+  description: "Insights from the ACL Year-Round Mentorship Session"
+  subtype: Montly Session
+  speakers: [8, 17,18]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://docs.google.com/document/d/1cKBM3pxMbhmng9QzsSEixk0l6nHNcxyyoPvbNkHpjsU/edit#"
+  video: "//www.youtube.com/embed/nyHwi7x7t20"
+-
+  id: 005
+  title: "Finding Internships in NLP"
+  subtype: Montly Session
+  speakers: [19, 20, 21]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://docs.google.com/document/d/1zrYEfwnIS3CS98MJz3jYggPXm1xxAk8u3C_QwIIqJGE/edit"
+  video: "//www.youtube.com/embed/40W6hoonzKg"
+-
+  id: 006
+  title: "Doing NLP on a Budget"
+  subtype: Montly Session
+  speakers: [16, 22, 23]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://docs.google.com/document/d/1YTX2EEi6J6ab8l2umYS2fnj60oauooFl6paQs6IANno/edit"
+  video: "//www.youtube.com/embed/qNiBfZYWMH4"
+-
+  id: 007
+  title: "Effective Communication in NLP Research"
+  subtype: Montly Session
+  speakers: [24, 25, 26]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/u/0/folders/1FdioJKWeY3zcf6nQmi_ggkfyOx2ksjiw"
+  video: "//www.youtube.com/embed/kdZZHKNn3PQ"

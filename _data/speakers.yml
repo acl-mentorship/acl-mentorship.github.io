@@ -1,0 +1,209 @@
+- 
+  id: 8
+  name: "Prof. Rada"
+  surname: "Mihalcea"
+  company: "University of Michigan"
+  title: "Professor"
+  bio: "Rada is professor at University of Michigan. Her research interests are in Natural Language Processing, Multimodal Processing, Computational Social Sciences. "
+  thumbnailUrl: rada.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://web.eecs.umich.edu/~mihalcea/"}
+- 
+  id: 9
+  name: "Saif M."
+  surname: "Mohammad"
+  company: "National Research Council Canada"
+  title: "Senior Research Scientist"
+  bio: 'Dr. Saif M. Mohammad is a Senior Research Scientist at the National Research Council Canada (NRC). He received his Ph.D. in Computer Science from the University of Toronto. Before joining NRC, Saif was a Research Associate at the Institute of Advanced Computer Studies at the University of Maryland, College Park. His research interests are in Computational Linguistics and Natural Language Processing (NLP), especially Lexical Semantics, Emotions in Language, Sentiment Analysis, Computational Creativity, Fairness in NLP, Psycholinguistics, and Information Visualization. He has published over 100 scientific articles (journal articles, book chapters, and conference papers). He has served in various capacities at prominent journals and conferences, including: action editor for Computational Linguistics, senior action editor for ACL Rolling review, chair of the Canada--UK symposium on Ethics in AI, co-chair of SemEval 2017-19 (the largest platform for semantic evaluations), workshops co-chair for ACL 2020, co-organizer of WASSA 2017 and 2018 (a sentiment analysis workshop), and area chair for ACL, NAACL, and EMNLP (in the areas of sentiment analysis, lexical semantics, and fairness in NLP).'
+  thumbnailUrl: saif.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.saifmohammad.com/"}
+- 
+  id: 10
+  name: "Soujanya"
+  surname: "Poria"
+  company: "Singapore University of Technology and Design"
+  title: "Assistant Professor"
+  bio: "Soujanya hold a Ph.D. in Computer Science. His main areas of research interest are NLP and sentiment analysis. At present, He work as an assistant professor at the Singapore University of Technology and Design (SUTD), Singapore. He is also part of the Institute of High-Performance Computing (IHPC), ASTAR as a senior scientist. Before joining SUTD, He worked at NTU where he was awarded the prestigious NTU presidential postdoctoral fellowship."
+  thumbnailUrl: soujanya.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/soujanyaporia"}
+    - {name: "site", link: "https://sporia.info/"}
+- 
+  id: 11
+  name: "Prof. Mohit"
+  surname: "Bansal"
+  company: "UNC Chapel Hill"
+  title: "Associate Professor"
+  bio: "Dr. Mohit Bansal is the John R. & Louise S. Parker Associate Professor and the Director of the MURGe-Lab (in the UNC-NLP Group) in the Computer Science department at the University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his Ph.D. in 2013 from the University of California at Berkeley (where he was advised by Dan Klein) and his B.Tech. from the Indian Institute of Technology at Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on grounded and embodied semantics, human-like language generation and Q&A/dialogue, and interpretable and generalizable deep learning."
+  thumbnailUrl: mohit.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.cs.unc.edu/~mbansal/"}
+    - {name: "twitter", link: "https://twitter.com/mohitban47"}
+- 
+  id: 12
+  name: "Barbara"
+  surname: "Plank"
+  company: "IT University of Copenhagen"
+  title: "Professor"
+  thumbnailUrl: barbara.png
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://bplank.github.io/"}
+- 
+  id: 13
+  name: "Jian"
+  surname: "Su"
+  company: "NLP@A*STAR I2R, Singapore"
+  title: "Department Head"
+  thumbnailUrl: jian.png
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://colips.org/~sujian/"}
+- 
+  id: 14
+  name: "Malihe"
+  surname: "Alikhani"
+  company: "University of Pittsburgh"
+  title: "Associate Professor"
+  bio: "She is Assistant Professor of Computer Science in the School of Computing and Information at the University of Pittsburgh. Her primary research interests are in the fields of Natural Language Processing and Cognitive Science with broader interests in Computational Social Sciences."
+  thumbnailUrl: malihe.jpeg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.malihealikhani.com/"}
+- 
+  id: 15
+  name: "Kalika"
+  surname: "Bali"
+  company: "Microsoft"
+  title: "Researcher"
+  thumbnailUrl: kalika.jpg
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://www.microsoft.com/en-us/research/people/kalikab/"}
+- 
+  id: 16
+  name: "Vinodkumar"
+  surname: "Prabhakaran"
+  company: "Google"
+  title: "Senior Research Scientist"
+  thumbnailUrl: vinod.jpg
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://www.cs.stanford.edu/~vinod/"}
+- 
+  id: 17
+  name: "Mrinmaya"
+  surname: "Sachan"
+  company: "ETH Zürich"
+  title: "Assistant Professor"
+  thumbnailUrl: mrinmaya.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.mrinmaya.io/"}
+- 
+  id: 18
+  name: "Lingpeng"
+  surname: "Kong"
+  company: "University of Hong Kong"
+  title: "Assistant Professor"
+  thumbnailUrl: lingpeng.jpeg
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://ikekonglp.github.io/"}
+- 
+  id: 19
+  name: "Priyanka"
+  surname: "Agrawal"
+  company: "Booking.com"
+  title: "ML manager"
+  thumbnailUrl: priyanka.jpeg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/priyanka88/?originalSubdomain=in"}
+- 
+  id: 20
+  name: "Scott"
+  surname: "Hale"
+  company: "Oxford"
+  title: "Professor"
+  thumbnailUrl: scott.jpeg
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/computermacgyver?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=uk"}
+- 
+  id: 21
+  name: "elisa"
+  surname: "Ferracane"
+  company: "Abridge"
+  title: "NLP Research Scientist"
+  thumbnailUrl: elisa.jpeg
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/elisaferracane/"}
+- 
+  id: 22
+  name: "Tim"
+  surname: "Baldwin"
+  company: "University of Melbourne"
+  title: " Melbourne Laureate Professor"
+  bio: ""
+  thumbnailUrl: tim.png
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://people.eng.unimelb.edu.au/tbaldwin/"}
+- 
+  id: 23
+  name: "Luciana"
+  surname: "Benotti"
+  company: "Universidad Nacional de Córdoba"
+  title: "Associate Professor"
+  bio: ""
+  thumbnailUrl: luciana.jpeg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://benotti.github.io/"}
+- 
+  id: 24
+  name: "Dirk"
+  surname: "Hovy"
+  company: "Bocconi University"
+  title: " Associate professor"
+  bio: ""
+  thumbnailUrl: dirk.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.dirkhovy.com/"}
+- 
+  id: 25
+  name: "Min-Yen"
+  surname: "Kan"
+  company: "National University of Singapore Singapore"
+  title: "Associate Professor"
+  bio: "Min-Yen is an associate professor with research interests that span digital libraries, natural language processing and information retrieval. Specific interests include: scholarly digital libraries, definitional QA, statistical MT, text summarization, verb analysis, optimizing access to scientific literature, web crawling, and combining search and browsing user interfaces under human-computer interaction. He is a senior member of the ACM and the IEEE, and a member of the ACL, NUS' NGS, and PREMIA. He is graduated with my Ph.D. from Columbia University."
+  thumbnailUrl: min.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.comp.nus.edu.sg/~kanmy/"}
+- 
+  id: 26
+  name: "Sebastian"
+  surname: "Ruder"
+  company: "Google"
+  title: "Research scientist"
+  bio: "Sebastian is a research scientist at Google based in London, UK. Before that he was a research scientist at DeepMind. He completed my PhD in Natural Language Processing and Deep Learning at the Insight Research Centre for Data Analytics, while working as a research scientist at Dublin-based text analytics startup AYLIEN."
+  thumbnailUrl: seb.jpeg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://ruder.io/"}

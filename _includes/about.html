@@ -1,0 +1,47 @@
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ site.aboutTitle }}</h4> <br> <br>
+                 <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.aboutBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="130" width="130" alt="{{ about.title }}">
+                        <p>{{ about.text }}</p>
+                    </div>
+                    <a href="https://docs.google.com/document/d/1-Z4pgk1c35SfRdoinU21osDQn5NlITvnuGYleFGXPuk/edit" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ "Details" }}</a>
+
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+            <br>
+            <br>
+            <h5> Overview </h5>
+            <p>We are a mentorship network that helps and supports junior researchers in natural language processing (NLP).
+                Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. 
+                People from all over the world can apply. 
+                We are honored to have over <b>650 members worldwide </b> now. </p>
+               <br> 
+
+            <br>
+
+            <h6> What is Year-Round Mentorship? </h6>
+            <p> This is an initiative undertaken under the auspices of the Association for Computational Linguistics (ACL), aimed to provide mentorship opportunities for students starting in the field. We are organizing virtual mentorship meetings throughout the year, with mentors from academia or industry with significant expertise and successful careers in the field of NLP. The topics discussed range from “how to choose research topic?” and “how to write a paper?” all the way to “should I do a PhD?” and “how do you keep a work-life balance?” </p>
+        
+            <br>
+            <h6> Who Can Apply? </h6>
+            <p> Anyone who is currently an active student anywhere in the world can sign up to participate in the mentorship sessions. While this may change in the future, at this point we are unable to offer mentorship to those who are not currently enrolled as students.
+            </p>
+                    
+        </div>
+
+    </div>
+</section>
+<!-- End About Section -->

@@ -1,0 +1,183 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+plugins:
+  - jekyll-gist
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "ACL YEAR-ROUND MENTORSHIP"
+email: "mentorship@aclweb.org"
+description: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
+baseurl: "/ACL-mentorship"
+url: "https://tejasvaidhyadev.github.io"
+permalink: "/news/:title"
+googleAnalyticsTrackingId: #"UA-43643469-5"
+googleAnalyticsSiteUrl: #"gdg-x.github.io"
+siteVerification: #"b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "ACL MENTORSHIP"
+organizerAlternateName: "ACL YEAR-ROUND MENTORSHIP"
+organizerDescription: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
+organizerEmail: "mentorship@aclweb.org"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://mentorship.aclweb.org/"
+
+# Head
+metaKeywords: "Acl, Aclmentorship, NLP, research, Mentoship"
+twitterAccount: "@aclmentorship"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/news/", text: "News"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/resources/", text: "Resources"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
+bottomNavigationLinks:
+ - {link: "null", text: "Become a Sponsor"}
+rightNavigationButtons:
+ - {link: "null", text: "Become a Sponsor"}
+
+# Hero Block
+heroImage: "hero3.jpg"
+heroTitle: "ACL YEAR-ROUND MENTORSHIP | <typeout> 2022"
+eventDate: ""
+typeoutTextValues: '"1-Hour Monthly Panel", "30-Min Monthly GatherTown", "Small-Group Mentoring", "Family"'
+typeoutFallback: "Season"
+heroButtons:
+ - {permalink: "/news/apply-to-be-a-Mentee", text: "Become a Mentee"}
+ - {permalink: "/news/apply-as-mentor", text: " Become a Mentor"}
+ - {link: "null", text: "Become a Sponsor"}
+# About Block
+aboutTitle: "About"
+aboutBlock:
+ - {title: "Monthly Panel", image: "montly.png", text: "1-hour Monthly panel by senior researchers on an important topic for the audience." }
+ - {title: "Gather Town", image: "GT1.jpg", text: "More interactive formats to chat with senior researchers or make friends." }
+ - {title: "Small-Group Mentoring", image: "sgm.png", text: "Small-Group Mentoring, where each mentor can be matched with several mentees for small-group discussions" }
+
+# Statistic Block
+statisticBlockImage: "1.jpg"
+statisticBlock:
+ - {count: " 650", specialCharacter: "+", info: "members", detail: "Around the world"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of Monthly Panels"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "Around the world"}
+ - {count: "3", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "aclmentorship"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: ""
+subscribeInfo: "Registration will be open across the year!"
+
+
+
+# Footer
+socialLinks:
+ - {link: "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Faclmentorship&sa=D&sntz=1&usg=AOvVaw0SytazMu2xPbNbxlf72P3p", icon: "twitter"}
+ - {permalink: "/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "slack"}
+
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA", text: "YouTube Channel"}
+   - {link: "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40zhijing-jin&sa=D&sntz=1&usg=AOvVaw1lGkGNsC4NtW4e3_B0b5mT", text: "Blogs"}
+   - {permalink: "/resources/", text: "Resources"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:mentorship@aclweb.org", text: "mentorship@aclweb.org"}
+   - {link: "https://twitter.com/aclmentorship", text: "Twitter"}
+   
+ -
+  title: "Other resources"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/slack/", text: "Slack"}
+  
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "https-mentorship-aclweb-org"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Motivated by the rapidly growing community of NLP, every year we see many junior students joining the NLP community. However, not all people have the same resources and can receive similar guidance to develop a smooth research/career path in NLP. This difference is exacerbated by the region, cultural group, and many other factors that make resources unequally distributed. Inspired by the one-time mentorship sessions at NLP conferences, we are thinking whether we could make mentorship resources more available all around the year and around the world.
+"
+
+# Hackathon
+hackathonTitle: ""
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Resources"
+hackathonRows:
+ - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
+ - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
+ - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/ACL-mentorship/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
+ - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
+
+
