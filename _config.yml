@@ -48,9 +48,9 @@ navigationLinks:
  - {permalink: "/resources/", text: "Resources"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "null", text: "Become a Sponsor"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "null", text: "Become a Sponsor"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
 
 # Hero Block
 heroImage: "hero3.jpg"
@@ -61,7 +61,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/news/apply-to-be-a-Mentee", text: "Become a Mentee"}
  - {permalink: "/news/apply-as-mentor", text: " Become a Mentor"}
- - {link: "null", text: "Become a Sponsor"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
 # About Block
 aboutTitle: "About"
 aboutBlock:
