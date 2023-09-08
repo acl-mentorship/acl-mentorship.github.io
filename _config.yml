@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero3.jpg"
-heroTitle: "ACL YEAR-ROUND MENTORSHIP | <typeout> 2022"
+heroTitle: "ACL YEAR-ROUND MENTORSHIP"
 eventDate: ""
 typeoutTextValues: '"1-Hour Monthly Panel", "30-Min Monthly GatherTown", "Small-Group Mentoring", "Family"'
 typeoutFallback: "Season"

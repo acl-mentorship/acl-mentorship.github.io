@@ -44,15 +44,15 @@
     - {name: "site", link: "https://zhijing-jin.com/fantasy/"}
 -
   id: 4
-  name: "Ashkan"
-  surname: "Kazemi"
-  title: "PhD at University of Michigan"
-  thumbnailUrl: ash.jpg
-  team: true
+  name: "Oana"
+  surname: "Ignat"
+  title: "Postdoc at University of Michigan"
+  thumbnailUrl: oana.jpg
+  subTeam: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/ashkankazemi"}
-    - {name: "email", link: "mailto:ashkank@umich.edu"}
-    - {name: "site", link: "https://ashkankazemi.ir/"}
+    - {name: "twitter", link: "https://twitter.com/OanaIgnatRo"}
+    - {name: "email", link: "mailto:oignat@umich.edu"}
+    - {name: "site", link: "https://oanaignat.github.io//"}
 -
   id: 5
   name: "Tejas"
@@ -85,3 +85,14 @@
   social: 
     - {name: "email", link: "mailto:lbauer6@cs.unc.edu"}
     - {name: "site", link: "https://www.cs.unc.edu/~lbauer6/"}
+-
+  id: 4
+  name: "Ashkan"
+  surname: "Kazemi"
+  title: "PhD at University of Michigan"
+  thumbnailUrl: ash.jpg
+  subTeam: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/ashkankazemi" }
+    - { name: "email", link: "mailto:ashkank@umich.edu" }
+    - { name: "site", link: "https://ashkankazemi.ir/" }
