@@ -48,7 +48,7 @@
   surname: "Ignat"
   title: "Postdoc at University of Michigan"
   thumbnailUrl: oana.jpg
-  subTeam: false
+  subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/OanaIgnatRo"}
     - {name: "email", link: "mailto:oignat@umich.edu"}
